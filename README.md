@@ -1,1 +1,1 @@
-Bu ilova veb-ilova bo'li OTM talabalar turar joyini avtomatlashga qaratilgandir
+Bu ilova veb-ilova bo'lib OTM talabalar turar joyini avtomatlashga qaratilgandir
